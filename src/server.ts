@@ -4,7 +4,6 @@ import express, {
   type Response,
 } from "express";
 import { Pool } from "pg";
-import { p } from "../../../../../../../node_modules/react-router/dist/development/index-react-server-client-BSxMvS7Z";
 const app: Application = express();
 const port = 4000;
 
