@@ -9,6 +9,7 @@
     // See also https://aka.ms/tsconfig/module
     // "module": "nodenext",
     "module": "esnext",
+    "moduleResolution": "bundler",
     // "moduleResolution": "node",
 
     "target": "esnext",
